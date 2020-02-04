@@ -1,0 +1,37 @@
+body {
+
+font-family: sans-serif;
+font-size: 150%;
+
+}
+
+h1 {
+
+text-align: center;
+border: black 5px solid;
+text-transform: uppercase;
+
+}
+
+p.borde1 {
+
+border-left: red double 20px;
+border-top: red double 20px;
+
+}
+
+p.borde2 {
+
+border-color: blue green;
+border-width: 5px 10px 15px 30px;
+border-style: dashed;
+
+}
+
+p.borde3 {
+
+border-color: rgb(226, 163, 69);
+border-style: double;
+border-width: 40px 10px;
+
+}
