@@ -30,8 +30,31 @@ border-style: dashed;
 
 p.borde3 {
 
-border-color: rgb(226, 163, 69);
+border-color: yellow;
 border-style: double;
 border-width: 40px 10px;
+
+}
+
+p.borde4 {
+
+border-top: rgb(7, 235, 7) 20px solid;
+border-bottom: blue 20px solid;
+
+}
+
+p.borde5 {
+
+border-color: red black black;
+border-width: 35px;
+border-style: dashed solid dotted;
+
+}
+
+p.borde6 {
+
+border-color: black black black red;
+border-width: 10px 40px 20px;
+border-style: dotted solid dashed double;
 
 }
